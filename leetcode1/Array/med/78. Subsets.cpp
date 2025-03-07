@@ -196,3 +196,8 @@ public:
 ✅ Efficient recursion, avoids redundant calls.
 */
 
+// 🚀 Best Choice
+// For n ≤ 10, all approaches work well.
+// Bit Manipulation is the fastest (avoids recursion).
+// Iterative Expansion is easy to understand and non-recursive.
+// Backtracking is useful for constraints like duplicate subsets.

@@ -101,7 +101,7 @@ public:
 
             // Both nodes are NULL, continue
             if (!node1 && !node2)
-                continue;
+                continue;       
 
             // One is NULL, the other isn't → not same
             if (!node1 || !node2)
